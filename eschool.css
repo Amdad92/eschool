@@ -1,0 +1,179 @@
+section{
+    padding-top: 30px;
+    padding-bottom: 15px;
+}
+/*Navbar section starts from here*/
+.navlogo{
+    width: 198.07px;
+    height: 59px;
+   margin-left: 95px;
+}
+.menunav{
+    margin-right: 100px;
+
+}
+.link-button{
+    text-decoration: none;
+    border-radius: 35px;
+   background-image:linear-gradient(90deg,lightsalmon, tomato);
+    width: 104px;
+    height: 43px;
+    align-items: center;
+    padding: 10px 20px;
+    color: white;
+    font-weight: 700;
+    font-family: Poppins;
+}
+.navbody{
+    background-color:  white;
+}
+.nav-item:hover {
+font-weight: 700;
+}
+/*Navbar section end here*.../
+
+
+/*Section top part*/
+
+.top-part-img{
+    width: 100%;
+    overflow: hidden;
+}
+.sh6{
+    color: #FD511A;
+    font-family: Poppins;
+    line-height: 24px;
+    overflow: hidden;
+}
+.sh1{
+    color: #000000;
+    font-size: 48px;
+    font-family: Poppins;
+    line-height: 70px;
+    overflow: hidden;
+}
+.sh2{
+    color: #21B573;
+    font-size: 48px;
+    font-family: Poppins;
+    overflow: hidden;
+}
+.sp{
+    color:  #6C6B6B;
+    width: 403px;
+    overflow: hidden;
+}
+.link-button:hover {
+   background-image: linear-gradient(45deg,green,darkgreen);
+   color: yellowgreen;
+
+}
+/*Section top part end here...*/
+
+
+/*Container categories start from here*/
+.card1,.card2,.card3,.card4{
+    border-radius: 33px;
+    display: grid;
+    place-items: center;
+    width: 255px;
+    height: 270px;
+    box-shadow: 0px 20px 20px lightgray;
+   
+}
+.middlecard{
+    border: white;
+}
+.card1 img,.card2 img, .card3 img, .card4 img{
+    width: 75px;
+    height: 75px;
+}
+.card1:hover, .card2:hover, .card3:hover, .card4:hover{
+    transform: scale(1.1);
+    transition: transform 1s;
+}
+/* Middle part sect end...*/
+
+
+/*3rd Part Start From here*/
+h1{
+    color:  #413960;
+    padding-top: 10px;
+    padding-bottom: 20px;
+    font-family: Poppins;
+}
+h5{
+    color:  #413960;
+    font-family: Poppins;
+}
+p{
+    color:#585859;
+    font-family: Poppins;
+}
+.rd-p-card1,.rd-p-card2,.rd-p-card3 {
+    border-radius: 18px;
+    width: 350px;
+    height: 440px;
+    box-shadow: 0px 20px 20px lightgray;
+    
+}
+.thirdcard{
+    border: white;
+   
+}
+.rd-p-card1,.rd-p-card2,.rd-p-card3{
+    width: 331px;
+    height: 435px;
+}
+.rd-p-card1:hover,.rd-p-card2:hover,.rd-p-card3:hover {
+    transform: scale(1.1);
+    transition: transform 1s;
+}
+.bimg{
+    width: 24px;
+    height: 24px;
+    float: left;
+}
+/*Third-part-bottom-item..*/
+#block1{
+   width: 50%;
+   float: left;
+}
+#block2{
+    width: 50%;
+    float: left;
+    padding-left: 20%;
+ }
+
+.bottomitem{
+    padding-top: 20px;
+}
+/*Third part section ends here...*/
+
+/*4rth item section start here...*/
+.fourthpart{
+    display: flex;
+    align-items: center;
+    margin-left: 20%;
+    margin-right: 20%;
+}
+.img4rth{
+    width: 40%;
+}
+/*Fourth Part Section Ends Here..*/
+
+/*Footer section Start here..*/
+
+.lowerpart{
+    background-color: #282531;
+    width: 1463px;
+    height: 369px;
+    padding-top: 8%;
+}
+.pl, .ull{
+    color:white;
+}
+.pl{
+    padding-top: 30px;
+    padding-left: 7%;
+}
